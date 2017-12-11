@@ -128,21 +128,28 @@ It’s more secure than using common passwords, just make sure your private key 
 **1.4 Firewall configuration**
 
 Straight to the commands:
+
 ```
 sudo ufw allow ssh/tcp
 sudo ufw limit ssh/tcp
 sudo ufw allow 8886/tcp
 sudo ufw default deny incoming 
 sudo ufw default allow outgoing 
-sudo ufw enable ```
+sudo ufw enable 
+```
+
 [y, Enter]
+
 ```
 sudo reboot
 ```
+
 Now login again and check if firewall works correctly:
+
 ```
 sudo ufw status
 ```
+
 should print ‘status: active’ and current rules.
 
 Now you are ready to go with fully configured linux server. Weeee!
