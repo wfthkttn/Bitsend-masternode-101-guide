@@ -1,6 +1,6 @@
 # 「BitSend」Masternode 101 Guide
 
-
+! Linux automate install [available](https://github.com/wfthkttn/BSD-Masternode-Setup-1604), it will install wallet with prerequisites, enable firewall + bitsend-as-a-service, so, it will restart if server failure happens. 
 
 Guide designed for total linux/windows newbies.
 
