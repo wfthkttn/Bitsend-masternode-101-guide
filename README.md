@@ -348,4 +348,8 @@ You can close your wallet, your masternode is running! Weeee!
 
 Now you are free to drop your job and enjoy self-explorations for a lifetime!
 
-Support BitSend and stay tuned.
+**Support BitSend and stay tuned!**
+
+If you want to support me, use my [refferal](https://www.vultr.com/?ref=7146997) or donate BSD directly - iJbLfK35hwpzLNvuSRsXxz9XjEEw8ajceV
+:3
+
