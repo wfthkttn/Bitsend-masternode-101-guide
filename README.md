@@ -258,6 +258,7 @@ listen=1
 server=1
 daemon=1
 masternode=1
+mnconflock=0
 promode=1
 masternodeprivkey=[MNPRIVKEY]
 externalip=[ServerIP]:8886
