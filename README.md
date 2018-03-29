@@ -18,7 +18,7 @@ You deal with money, don’t forget that.
 - [Bitsend GitHub](https://github.com/LIMXTEC/BitSend)
 - [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 - [Keepass](https://keepass.info/download.html)
-- [Vultr hosting](https://www.Vultr.com)  ([referral](https://www.vultr.com/?ref=7146997))
+- [Vultr hosting](https://www.Vultr.com)
 
 
 
@@ -351,6 +351,6 @@ Now you are free to drop your job and enjoy self-explorations for a lifetime!
 
 **Support BitSend and stay tuned!**
 
-If you want to support me, use my [refferal](https://www.vultr.com/?ref=7146997) or donate BSD directly - iJbLfK35hwpzLNvuSRsXxz9XjEEw8ajceV
+BSD - iJbLfK35hwpzLNvuSRsXxz9XjEEw8ajceV
 :3
 
