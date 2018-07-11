@@ -244,6 +244,7 @@ sudo chmod 775 /usr/local/bin/bitsend*
 
 **3.4 Install and configure masternode**
 ```
+su bitsend
 mkdir ~/.bitsend
 nano ~/.bitsend/bitsend.conf
 ```
@@ -267,7 +268,7 @@ externalip=[ServerIP]:8886
 
 **Use bootstrap file to load blockchain quicker. (without it will take several hours)**
 ```
-wget https://www.mybitsend.com/bootstrap.tar.gz
+wget 207.246.121.232:1337/bootstrap.tar.gz
 tar -xvzf bootstrap.tar.gz
 ```
 Now run bitsend, just type “bitsendd” and hit enter
@@ -279,6 +280,7 @@ tail -f debug.log
 
 **3.5 Bitsend as a service**
 ```
+su
 sudo mkdir /usr/lib/systemd/system
 sudo nano /usr/lib/systemd/system/bitsendd.service
 ```
